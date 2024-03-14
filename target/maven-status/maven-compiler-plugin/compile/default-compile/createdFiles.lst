@@ -1,0 +1,5 @@
+com\picpay\config\SmbProperties.class
+com\picpay\service\SambaUseCase.class
+com\picpay\SambaProtocolAplicationApplication.class
+com\picpay\controller\SambaController.class
+com\picpay\config\SambaConfig.class
